@@ -1,5 +1,5 @@
 Ext.application({
-    name: 'HelloExt',
+    name: 'AdministrationLgcPos',
     launch: function() {
         Ext.create('Ext.container.Viewport', {
             layout: 'fit',
